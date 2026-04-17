@@ -1,0 +1,13 @@
+{
+  "name": "iron-oak-gym",
+  "version": "1.0.0",
+  "description": "Iron & Oak Gym — Premium Luxury Website",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
